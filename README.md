@@ -1,4 +1,6 @@
 # latihan-git
 Latihan belajar git
 
-Halo saya Andi
+Fitur A
+Fitur B
+Fitur C
